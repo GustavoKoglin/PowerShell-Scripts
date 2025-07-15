@@ -11,7 +11,7 @@ Este projeto reúne uma coleção de scripts PowerShell voltados para aumentar s
 
 Cada script possui comentários explicativos e pode ser adaptado conforme sua necessidade.
 
-## ✅ Licença
+## ✅ Licença, Contribuição e Código de Conduta:
 
 - [**MIT License | MIT Licença**](./LICENSE-MIT.md)
 - [**Contribuiução | Contributing**](./CONTRIBUTING.md)
