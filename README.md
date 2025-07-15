@@ -15,4 +15,6 @@ Cada script possui comentários explicativos e pode ser adaptado conforme sua ne
 
 Este projeto oferece três licenças para você escolher a que melhor se adequa ao seu uso:
 
-- **MIT License**  
+- [**MIT License | MIT Licença**](./LICENSE-MIT.md)
+- [**Contribuiução | Contributing**](./CONTRIBUTING.md)
+- [**Code Of Conduct | Código de Conduta**](./CODE_OF_CONDUCT.md)
