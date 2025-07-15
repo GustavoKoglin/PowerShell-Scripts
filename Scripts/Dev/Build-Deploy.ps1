@@ -1,4 +1,9 @@
 # Build/Deploy scripts
+# Script para restaurar pacotes NuGet
+dotnet restore
+
+# Script para publicar o projeto
+dotnet publish -c Release -o ./publish
 
 # Build de projeto .NET
 dotnet build

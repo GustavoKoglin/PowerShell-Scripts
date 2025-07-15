@@ -1,5 +1,8 @@
 # AWS helpers
 
+# Certifique-se de que o AWS CLI está instalado antes de executar estes comandos.
+# Para instalar: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
 # Configurar credenciais AWS
 aws configure
 

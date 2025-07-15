@@ -11,9 +11,7 @@ Este projeto reúne uma coleção de scripts PowerShell voltados para aumentar s
 
 Cada script possui comentários explicativos e pode ser adaptado conforme sua necessidade.
 
-## ✅ Licenças disponíveis
-
-Este projeto oferece três licenças para você escolher a que melhor se adequa ao seu uso:
+## ✅ Licença
 
 - [**MIT License | MIT Licença**](./LICENSE-MIT.md)
 - [**Contribuiução | Contributing**](./CONTRIBUTING.md)
